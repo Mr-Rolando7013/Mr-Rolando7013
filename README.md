@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with my social media website project.
 - 💬 Ask me about Django, Firebase, Wordpress and cybersecurity.
 - 📫 How to reach me: enriquezrolandolim02@outlook.com
-- 😄 Pronouns: He/his
 - ⚡ Fun fact: One day an angry dog chased me while I was in a mountain bike tournament.
 -->
 
