@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Nenemi" project, a social media Django project.
-- 🌱 I’m currently learning malware analysis, SIEM development, Microsoft Power Bi and currently studying for the Comptia Security+ certification.
+- 🔭 I’m currently working in a Django project.
+- 🌱 I’m currently learning python and currently studying for the Comptia Security+ certification.
 - 👯 I’m looking to collaborate on cybersecurity, social projects, data analysis and network analysis.
 - 🤔 I’m looking for help with my social media website project.
 - 💬 Ask me about Django, Firebase, Wordpress and cybersecurity.
